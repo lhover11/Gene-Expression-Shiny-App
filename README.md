@@ -6,4 +6,4 @@ deidentified logCPM data from Pediatric Cancer Genome Project (PCGP) will be upl
 To run app:
 Open R, install the Shiny package and run:
 
-runGitHub("Gene-Expression-Shiny-App", "lhover11")
+runGitHub("Gene-Expression-Shiny-App", "lhover11", ref="Main")
