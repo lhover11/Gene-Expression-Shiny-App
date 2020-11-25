@@ -4,7 +4,7 @@ library(ggplot2)
 library(dplyr)
 library(plotly)
 
-# Data is dataframe of log2CPM values for 83 pediatric HGG samples with metadata including tumor subtype and mutational status for histone H3, ACVR1 and Trk fusions
+#Currently using example data prior to upload of PCGP log2CPM data
 data <- read.csv("data/Example_Expression_Data.csv", stringsAsFactors = FALSE, header=TRUE)
 
 # Extract just DIPG samples
