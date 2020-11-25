@@ -4,3 +4,5 @@ Shiny app designed to compare gene expression of pediatric gliomas across subtyp
 deidentified logCPM data from Pediatric Cancer Genome Project (PCGP) will be uploaded soon. 
 
 To run app:
+Open R, install the Shiny package and run:
+runGitHub("Gene-Expression-Shiny-App", "lhover11", subdir = "app")
